@@ -63,10 +63,10 @@
 "tour": "Dust2.dk Ligaen Season 33: Regular Season",
 "tslug": "dust2-dk-ligaen-season-33-regular-season",
 "p1": 0.251,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "nuclear-tigeres-vs-forze-reload-2026-10-24": {

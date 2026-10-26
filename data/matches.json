@@ -959,10 +959,10 @@
 "tour": "CCT Europe 2026 Contenders 10",
 "tslug": "cct-europe-2026-contenders-10",
 "p1": 0.412,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 }
 }

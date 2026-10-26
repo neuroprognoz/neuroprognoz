@@ -21,10 +21,10 @@
 "tour": "DACH CS Masters Season 6",
 "tslug": "dach-cs-masters-season-6",
 "p1": 0.543,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "ecstatic-vs-masonic-2026-10-26": {
@@ -133,10 +133,10 @@
 "tour": "NODWIN Clutch Series 13",
 "tslug": "nodwin-clutch-series-13",
 "p1": 0.665,
-"st": "current",
+"st": "finished",
 "s1": 2,
 "s2": 1,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "fokus-vs-ex-zero-tenacity-2026-10-26": {

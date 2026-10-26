@@ -553,10 +553,10 @@
 "tour": "PGL Masters Bucharest 2026",
 "tslug": "pgl-masters-bucharest-2026",
 "p1": 0.372,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "9z-vs-tyloo-2026-10-26": {
@@ -921,6 +921,20 @@
 "s1": 2,
 "s2": 0,
 "ok": true,
+"noindex": false
+},
+"red-canids-academy-vs-joga-de-terno-2026-10-27": {
+"slug": "red-canids-academy-vs-joga-de-terno-2026-10-27",
+"ts": 1793127600,
+"t1": "RED Canids Academy",
+"t2": "JOGA DE TERNO",
+"tour": "Gamers Club Liga Série A: October 2026",
+"tslug": "gamers-club-liga-s-rie-a-october-2026",
+"p1": 0.792,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
 "noindex": false
 }
 }

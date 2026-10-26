@@ -1,0 +1,74 @@
+<!doctype html><html lang="ru"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>НейроПрогноз — ИИ прогнозы на CS2 и ставки на киберспорт</title><meta name="description" content="Прогнозы на матчи CS2 от самообучающейся ИИ-модели: шансы команд, вероятный счёт, сигналы с перевесом над коэффициентом и честная статистика всех результатов. Major, IEM, BLAST, PGL, CCT.">
+<meta name="keywords" content="прогнозы на CS2, прогнозы КС2, ставки на киберспорт, ИИ прогнозы, нейросеть прогнозы CS2, прогнозы на матчи CS2 сегодня">
+<link rel="canonical" href="https://neuroprognoz.github.io/neuroprognoz/"><meta name="robots" content="index,follow">
+<meta property="og:type" content="website"><meta property="og:title" content="НейроПрогноз — ИИ прогнозы на CS2 и ставки на киберспорт"><meta property="og:description" content="Прогнозы на матчи CS2 от самообучающейся ИИ-модели: шансы команд, вероятный счёт, сигналы с перевесом над коэффициентом и честная статистика всех результатов. Major, IEM, BLAST, PGL, CCT.">
+<meta property="og:url" content="https://neuroprognoz.github.io/neuroprognoz/"><meta property="og:locale" content="ru_RU">
+<link rel="icon" href="logo.svg" type="image/svg+xml"><meta name="theme-color" content="#07080f">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "НейроПрогноз", "url": "https://neuroprognoz.github.io/neuroprognoz/", "description": "Прогнозы на матчи CS2 от самообучающейся ИИ-модели: шансы команд, вероятный счёт, сигналы с перевесом над коэффициентом и честная статистика всех результатов. Major, IEM, BLAST, PGL, CCT.", "sameAs": ["https://t.me/NeuroForecastAI"]}</script>
+<style>
+:root{--bg:#07080f;--card:#10131f;--line:#20263a;--tx:#e8edf5;--mut:#8f9ab3;--a:#22e1ff;--b:#7b5cff;--ok:#3ddc84;--bad:#ff5d6c}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.55 Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+a{color:var(--a)}.wrap{max-width:960px;margin:0 auto;padding:0 16px}
+header{padding:40px 0 24px;text-align:center}
+.logo{width:96px;height:96px;margin:0 auto 14px}
+h1{font-size:clamp(28px,6vw,44px);margin:0 0 8px;letter-spacing:-.02em}
+h1 span{background:linear-gradient(90deg,var(--b),var(--a));-webkit-background-clip:text;background-clip:text;color:transparent}
+.lead{color:var(--mut);max-width:640px;margin:0 auto 22px;font-size:17px}
+.btn{display:inline-block;padding:14px 26px;border-radius:12px;background:linear-gradient(90deg,var(--b),var(--a));color:#05060a;
+ font-weight:700;text-decoration:none;font-size:17px}
+.btn:hover{filter:brightness(1.1)}
+section{margin:34px 0}h2{font-size:22px;margin:0 0 14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
+.big{font-size:28px;font-weight:800;font-variant-numeric:tabular-nums}.lbl{color:var(--mut);font-size:13px}
+.pos{color:var(--ok)}.neg{color:var(--bad)}
+table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+td,th{padding:9px 8px;border-bottom:1px solid var(--line);text-align:left;font-size:15px;vertical-align:top}
+th{color:var(--mut);font-weight:600;font-size:13px}
+.tw{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:4px 8px}
+.fav{font-weight:700}.tour{color:var(--mut);font-size:13px;padding-top:14px}
+ul.f{padding-left:18px;margin:0}ul.f li{margin:6px 0}
+.note{color:var(--mut);font-size:14px}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:22px 0 40px;color:var(--mut);font-size:13px;text-align:center}
+@media(max-width:560px){td,th{font-size:14px;padding:8px 5px}.hide-s{display:none}}
+</style></head><body><div class="wrap">
+<header><div class="logo"><svg viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
+<radialGradient id="bg" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#1a1f3a"/><stop offset="1" stop-color="#06070d"/></radialGradient>
+<linearGradient id="ln" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#7b5cff"/><stop offset="1" stop-color="#22e1ff"/></linearGradient></defs>
+<rect width="640" height="640" rx="140" fill="url(#bg)"/>
+<g fill="none" stroke="#e8edf5" stroke-width="12" stroke-linecap="round" opacity=".9"><circle cx="320" cy="320" r="190"/>
+<line x1="320" y1="80" x2="320" y2="160"/><line x1="320" y1="480" x2="320" y2="560"/><line x1="80" y1="320" x2="160" y2="320"/><line x1="480" y1="320" x2="560" y2="320"/></g>
+<g stroke="url(#ln)" stroke-width="6" opacity=".9"><line x1="220" y1="230" x2="320" y2="200"/><line x1="220" y1="230" x2="320" y2="320"/><line x1="220" y1="230" x2="320" y2="440"/>
+<line x1="220" y1="410" x2="320" y2="200"/><line x1="220" y1="410" x2="320" y2="320"/><line x1="220" y1="410" x2="320" y2="440"/>
+<line x1="320" y1="200" x2="420" y2="320"/><line x1="320" y1="320" x2="420" y2="320"/><line x1="320" y1="440" x2="420" y2="320"/></g>
+<circle cx="220" cy="230" r="20" fill="#7b5cff"/><circle cx="220" cy="410" r="20" fill="#7b5cff"/><circle cx="320" cy="200" r="20" fill="#4f8dff"/>
+<circle cx="320" cy="320" r="20" fill="#4f8dff"/><circle cx="320" cy="440" r="20" fill="#4f8dff"/><circle cx="420" cy="320" r="28" fill="#22e1ff"/></svg></div><h1><span>НейроПрогноз</span> · CS2</h1>
+<p class="lead">Прогнозы на матчи CS2 от самообучающейся ИИ-модели. Она круглосуточно пересчитывает шансы команд и публикует сигнал
+только тогда, когда видит перевес над коэффициентом. Все результаты — открыто, без удалений.</p>
+<a class="btn" href="https://t.me/NeuroForecastAI">Подписаться в Telegram</a></header>
+
+<section><h2>🎯 Сигналы канала</h2>
+<p class="note">Статистика считается по всем сигналам, опубликованным в канале, по коэффициенту из сигнала. Ставка — в % от банка.</p></section>
+
+<section><h2>🧠 Точность модели</h2><div class="grid"><div class="card"><div class="big">66%</div><div class="lbl">победителей угадано на проверочных матчах</div></div><div class="card"><div class="big">63%</div><div class="lbl">угадано в реальном времени (109 матчей)</div></div><div class="card"><div class="big">47%</div><div class="lbl">точный счёт BO3 (случайно — 25%)</div></div></div></section>
+
+<section><h2>📊 Прогнозы на ближайшие матчи CS2</h2>
+<p class="note">Жирным — фаворит по модели, далее его шанс на победу и самый вероятный счёт. Это не сигналы и не советы ставить:
+ставки с перевесом выходят в канале отдельными постами.</p><div class="tw"><table><tr><th>МСК</th><th>Матч</th><th>Шанс фаворита</th><th>Счёт</th></tr><tr><td colspan="4" class="tour">🏆 PGL Masters Bucharest 2026</td></tr><tr><td>26.10 11:00</td><td>Nemiga — <span class=fav>Aurora</span></td><td>63%</td><td>0:2</td></tr><tr><td>26.10 11:00</td><td>The MongolZ — <span class=fav>MOUZ</span></td><td>71%</td><td>0:2</td></tr><tr><td>26.10 14:00</td><td><span class=fav>9z</span> — TYLOO</td><td>69%</td><td>2:0</td></tr><tr><td>26.10 14:00</td><td><span class=fav>Vitality</span> — FUT</td><td>77%</td><td>2:0</td></tr><tr><td>26.10 17:00</td><td><span class=fav>Spirit</span> — FURIA</td><td>65%</td><td>2:0</td></tr><tr><td>26.10 17:00</td><td>Liquid — <span class=fav>Legacy</span></td><td>69%</td><td>0:2</td></tr><tr><td>26.10 20:00</td><td><span class=fav>G2</span> — DENDELE</td><td>66%</td><td>2:0</td></tr><tr><td>26.10 20:00</td><td>BetBoom — <span class=fav>Natus Vincere</span></td><td>60%</td><td>0:2</td></tr><tr><td colspan="4" class="tour">🏆 NODWIN Clutch Series 13</td></tr><tr><td>26.10 12:00</td><td><span class=fav>Nemesis</span> — INOX Division</td><td>71%</td><td>2:0</td></tr><tr><td>26.10 15:00</td><td><span class=fav>FOKUS</span> — ex-Zero Tenacity</td><td>56%</td><td>2:0</td></tr><tr><td>26.10 18:00</td><td>BRUTE — <span class=fav>Metizport</span></td><td>61%</td><td>0:2</td></tr><tr><td>26.10 21:00</td><td><span class=fav>Nuclear TigeRES</span> — UNiTY</td><td>67%</td><td>2:0</td></tr><tr><td colspan="4" class="tour">🏆 European Pro League Series 10 Play-In</td></tr><tr><td>26.10 12:00</td><td><span class=fav>Falcons Force</span> — KUUSAMO</td><td>71%</td><td>2:0</td></tr><tr><td>27.10 12:00</td><td>Revise — <span class=fav>eternal premium</span></td><td>59%</td><td>0:2</td></tr><tr><td>27.10 14:30</td><td><span class=fav>benched gods</span> — MAYBE</td><td>53%</td><td>2:0</td></tr><tr><td colspan="4" class="tour">🏆 United21 Season 57</td></tr><tr><td>26.10 12:00</td><td>gothboiclique — <span class=fav>UNiTY</span></td><td>84%</td><td>0:2</td></tr><tr><td>26.10 14:30</td><td><span class=fav>CPH Wolves</span> — WonderKids</td><td>76%</td><td>2:0</td></tr><tr><td colspan="4" class="tour">🏆 Fiesta Series 3</td></tr><tr><td>26.10 12:00</td><td><span class=fav>Nexus</span> — Revise</td><td>85%</td><td>2:0</td></tr><tr><td>26.10 15:00</td><td><span class=fav>Walczaki</span> — Wingman</td><td>65%</td><td>2:0</td></tr><tr><td>26.10 18:00</td><td><span class=fav>Azuolas</span> — Fortress</td><td>64%</td><td>2:0</td></tr><tr><td colspan="4" class="tour">🏆 CCT Europe 2026 Series 12</td></tr><tr><td>26.10 18:00</td><td><span class=fav>HAVU</span> — Illyrians</td><td>50%</td><td>0:2</td></tr><tr><td>27.10 15:00</td><td><span class=fav>ex-RUSTEC</span> — Spirit Academy</td><td>56%</td><td>2:0</td></tr><tr><td>27.10 18:00</td><td><span class=fav>BAKS</span> — Saint Sinners</td><td>61%</td><td>2:0</td></tr><tr><td colspan="4" class="tour">🏆 DACH CS Masters Season 6</td></tr><tr><td>26.10 20:00</td><td>Sissi State Punks — <span class=fav>BIG Academy</span></td><td>81%</td><td>0:2</td></tr><tr><td>26.10 22:00</td><td><span class=fav>regnum4games</span> — Playing Ducks</td><td>54%</td><td>2:0</td></tr><tr><td colspan="4" class="tour">🏆 Dust2.dk Ligaen Season 33: Regular Season</td></tr><tr><td>26.10 20:00</td><td>MASQ — <span class=fav>ECSTATIC</span></td><td>75%</td><td>BO1</td></tr><tr><td>26.10 21:00</td><td><span class=fav>EAC EXTRA</span> — XI</td><td>55%</td><td>BO1</td></tr><tr><td>26.10 21:00</td><td><span class=fav>ECSTATIC</span> — MASONIC</td><td>67%</td><td>BO1</td></tr><tr><td>26.10 22:00</td><td><span class=fav>MASONIC</span> — struggletony</td><td>60%</td><td>BO1</td></tr><tr><td>26.10 23:00</td><td><span class=fav>EAC EXTRA</span> — struggletony</td><td>63%</td><td>BO1</td></tr><tr><td>26.10 23:00</td><td>Linx Legacy — <span class=fav>STATE</span></td><td>82%</td><td>BO1</td></tr><tr><td colspan="4" class="tour">🏆 Gamers Club Liga Série A: October 2026</td></tr><tr><td>27.10 00:00</td><td>paiN Academy — <span class=fav>BESTIA Academy</span></td><td>53%</td><td>0:2</td></tr><tr><td>27.10 00:00</td><td>QUINTESSÊNCIA — <span class=fav>MEIA NOITE</span></td><td>58%</td><td>0:2</td></tr><tr><td colspan="4" class="tour">🏆 DFRAG Invitational 2026</td></tr><tr><td>27.10 06:00</td><td><span class=fav>Rooster</span> — Abyssal</td><td>60%</td><td>2:0</td></tr><tr><td colspan="4" class="tour">🏆 Tesla Cup 2026</td></tr><tr><td>27.10 11:00</td><td><span class=fav>B8</span> — K27</td><td>62%</td><td>2:0</td></tr><tr><td>27.10 14:00</td><td>Alliance — <span class=fav>FaZe</span></td><td>62%</td><td>0:2</td></tr><tr><td>27.10 20:00</td><td>Luminosity — <span class=fav>HOTU</span></td><td>59%</td><td>0:2</td></tr><tr><td colspan="4" class="tour">🏆 Stake Ranked Episode 5</td></tr><tr><td>27.10 14:00</td><td>magic — <span class=fav>BIG</span></td><td>53%</td><td>0:2</td></tr><tr><td>27.10 16:30</td><td>Inner Circle — <span class=fav>Nemesis</span></td><td>54%</td><td>0:2</td></tr><tr><td>27.10 19:00</td><td><span class=fav>Astralis</span> — fnatic</td><td>67%</td><td>2:0</td></tr></table></div></section>
+
+<section><h2>✅ Последние результаты сигналов</h2><p class="note">Канал запущен в октябре 2026. Первые сигналы уже опубликованы — результаты появятся здесь после матчей.</p><p class="note">Ждут результата: 6 сигналов — смотрите их в <a href="https://t.me/NeuroForecastAI">канале</a>.</p></section>
+
+<section><h2>📌 Что в канале</h2><div class="card"><ul class="f">
+<li>🎯 <b>Сигналы</b> — до начала матча: на что ставить, коэффициент, «брать от» и размер ставки в % банка</li>
+<li>✅ <b>Результат</b> — ответом на каждый сигнал сразу после матча</li>
+<li>📊 <b>Прогнозы на день</b> — шансы команд и вероятный счёт по матчам дня</li>
+<li>📅 <b>Итоги недели и сводка месяца</b> — все сигналы, проигрыши не удаляются</li></ul>
+<p class="note">Турниры: Major, IEM, BLAST, PGL, ESL Pro League, CCT, NODWIN и другие турниры Counter-Strike 2.</p>
+<p style="text-align:center;margin:18px 0 4px"><a class="btn" href="https://t.me/NeuroForecastAI">Перейти в канал</a></p></div></section>
+
+<footer>Обновлено автоматически: 26.10.2026 10:17 МСК<br>
+Гарантий выигрыша нет — результат виден только на дистанции в сотни ставок. Ставьте фиксированный процент банка. 18+</footer>
+</div></body></html>

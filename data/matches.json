@@ -35,10 +35,10 @@
 "tour": "Dust2.dk Ligaen Season 33: Regular Season",
 "tslug": "dust2-dk-ligaen-season-33-regular-season",
 "p1": 0.675,
-"st": "current",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "masonic-vs-struggletony-2026-10-26": {
@@ -637,10 +637,10 @@
 "tour": "PGL Masters Bucharest 2026",
 "tslug": "pgl-masters-bucharest-2026",
 "p1": 0.403,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "bestia-vs-galorys-2026-10-23": {

@@ -15,7 +15,7 @@
 },
 "regnum4games-vs-playing-ducks-2026-10-26": {
 "slug": "regnum4games-vs-playing-ducks-2026-10-26",
-"ts": 1793041200,
+"ts": 1793043900,
 "t1": "regnum4games",
 "t2": "Playing Ducks",
 "tour": "DACH CS Masters Season 6",
@@ -135,7 +135,7 @@
 "p1": 0.665,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },

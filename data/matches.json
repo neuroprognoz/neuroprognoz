@@ -1169,10 +1169,10 @@
 "tour": "NODWIN Clutch Series 13",
 "tslug": "nodwin-clutch-series-13",
 "p1": 0.361,
-"st": "current",
+"st": "finished",
 "s1": 1,
 "s2": 2,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "envy-vs-gamerlegion-2026-10-27": {
@@ -1183,10 +1183,10 @@
 "tour": "Tesla Cup 2026",
 "tslug": "tesla-cup-2026",
 "p1": 0.188,
-"st": "current",
+"st": "finished",
 "s1": 1,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "rush-vs-hunters-rising-2026-10-28": {
@@ -1295,6 +1295,20 @@
 "tour": "Stake Ranked Episode 5",
 "tslug": "stake-ranked-episode-5",
 "p1": 0.508,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"astralis-vs-magic-2026-10-28": {
+"slug": "astralis-vs-magic-2026-10-28",
+"ts": 1793185200,
+"t1": "Astralis",
+"t2": "magic",
+"tour": "Stake Ranked Episode 5",
+"tslug": "stake-ranked-episode-5",
+"p1": 0.601,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

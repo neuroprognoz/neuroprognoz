@@ -763,10 +763,10 @@
 "tour": "Tesla Cup 2026",
 "tslug": "tesla-cup-2026",
 "p1": 0.631,
-"st": "current",
+"st": "finished",
 "s1": 1,
 "s2": 2,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "alliance-vs-faze-2026-10-27": {
@@ -1113,10 +1113,10 @@
 "tour": "DFRAG Invitational 2026",
 "tslug": "dfrag-invitational-2026",
 "p1": 0.881,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": false
 },
 "quintess-ncia-vs-meia-noite-2026-10-28": {

@@ -1140,7 +1140,7 @@
 "t2": "Alliance",
 "tour": "Tesla Cup 2026",
 "tslug": "tesla-cup-2026",
-"p1": 0.659,
+"p1": 0.663,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -1171,7 +1171,7 @@
 "p1": 0.361,
 "st": "current",
 "s1": 1,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },

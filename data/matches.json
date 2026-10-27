@@ -1076,5 +1076,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"b8-academy-vs-the-chosen-few-2026-10-27": {
+"slug": "b8-academy-vs-the-chosen-few-2026-10-27",
+"ts": 1793129400,
+"t1": "B8 Academy",
+"t2": "The Chosen Few",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.477,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

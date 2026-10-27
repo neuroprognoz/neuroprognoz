@@ -1048,5 +1048,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"nuclear-tigeres-vs-fokus-2026-10-27": {
+"slug": "nuclear-tigeres-vs-fokus-2026-10-27",
+"ts": 1793102400,
+"t1": "Nuclear TigeRES",
+"t2": "FOKUS",
+"tour": "NODWIN Clutch Series 13",
+"tslug": "nodwin-clutch-series-13",
+"p1": 0.506,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

@@ -1356,5 +1356,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"nemesis-vs-eternal-fire-2026-10-28": {
+"slug": "nemesis-vs-eternal-fire-2026-10-28",
+"ts": 1793194200,
+"t1": "Nemesis",
+"t2": "Eternal Fire",
+"tour": "Stake Ranked Episode 5",
+"tslug": "stake-ranked-episode-5",
+"p1": 0.456,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"inner-circle-vs-mibr-2026-10-28": {
+"slug": "inner-circle-vs-mibr-2026-10-28",
+"ts": 1793212200,
+"t1": "Inner Circle",
+"t2": "MIBR",
+"tour": "Stake Ranked Episode 5",
+"tslug": "stake-ranked-episode-5",
+"p1": 0.38,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

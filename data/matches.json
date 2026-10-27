@@ -1104,5 +1104,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"flyquest-vs-rooster-2026-10-27": {
+"slug": "flyquest-vs-rooster-2026-10-27",
+"ts": 1793086200,
+"t1": "FlyQuest",
+"t2": "Rooster",
+"tour": "DFRAG Invitational 2026",
+"tslug": "dfrag-invitational-2026",
+"p1": 0.881,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

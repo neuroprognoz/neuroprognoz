@@ -833,10 +833,10 @@
 "tour": "Gamers Club Liga Série A: October 2026",
 "tslug": "gamers-club-liga-s-rie-a-october-2026",
 "p1": 0.47,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "quintess-ncia-vs-meia-noite-2026-10-27": {

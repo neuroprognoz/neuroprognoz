@@ -1239,10 +1239,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.48,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "99firepower-1utility-vs-inner-circle-prospect-2026-10-27": {

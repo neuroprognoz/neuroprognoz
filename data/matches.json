@@ -1057,10 +1057,10 @@
 "tour": "NODWIN Clutch Series 13",
 "tslug": "nodwin-clutch-series-13",
 "p1": 0.506,
-"st": "current",
+"st": "finished",
 "s1": 1,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "bojong-vs-esuba-2026-10-27": {

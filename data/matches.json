@@ -1090,5 +1090,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"inner-circle-academy-vs-lavked-2026-10-27": {
+"slug": "inner-circle-academy-vs-lavked-2026-10-27",
+"ts": 1793124000,
+"t1": "Inner Circle Academy",
+"t2": "Lavked",
+"tour": "CCT Europe 2026 Series 12",
+"tslug": "cct-europe-2026-series-12",
+"p1": 0.58,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

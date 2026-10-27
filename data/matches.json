@@ -995,12 +995,12 @@
 },
 "spirit-vs-mouz-2026-10-27": {
 "slug": "spirit-vs-mouz-2026-10-27",
-"ts": 1793109600,
+"ts": 1793110800,
 "t1": "Spirit",
 "t2": "MOUZ",
 "tour": "PGL Masters Bucharest 2026",
 "tslug": "pgl-masters-bucharest-2026",
-"p1": 0.533,
+"p1": 0.532,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -1058,7 +1058,7 @@
 "tslug": "nodwin-clutch-series-13",
 "p1": 0.506,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 1,
 "ok": null,
 "noindex": false

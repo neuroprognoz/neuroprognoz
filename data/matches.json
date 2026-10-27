@@ -1225,7 +1225,7 @@
 "tour": "CCT Europe 2026 Contenders 10",
 "tslug": "cct-europe-2026-contenders-10",
 "p1": 0.489,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,
@@ -1247,7 +1247,7 @@
 },
 "99firepower-1utility-vs-inner-circle-prospect-2026-10-27": {
 "slug": "99firepower-1utility-vs-inner-circle-prospect-2026-10-27",
-"ts": 1793127600,
+"ts": 1793129400,
 "t1": "99firepower 1utility",
 "t2": "Inner Circle Prospect",
 "tour": "ESEA Season 59: Advanced Division - Europe",

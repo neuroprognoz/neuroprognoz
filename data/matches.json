@@ -1552,5 +1552,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"sinqu-vs-fortress-2026-10-28": {
+"slug": "sinqu-vs-fortress-2026-10-28",
+"ts": 1793210400,
+"t1": "SINQU",
+"t2": "Fortress",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.501,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"dendele-vs-low-cortisol-br-2026-10-29": {
+"slug": "dendele-vs-low-cortisol-br-2026-10-29",
+"ts": 1793304000,
+"t1": "DENDELE",
+"t2": "Low Cortisol BR",
+"tour": "Gamers Club Masters VII",
+"tslug": "gamers-club-masters-vii",
+"p1": 0.861,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

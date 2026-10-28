@@ -1762,5 +1762,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"faze-vs-gamerlegion-2026-10-29": {
+"slug": "faze-vs-gamerlegion-2026-10-29",
+"ts": 1793275200,
+"t1": "FaZe",
+"t2": "GamerLegion",
+"tour": "Tesla Cup 2026",
+"tslug": "tesla-cup-2026",
+"p1": 0.577,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

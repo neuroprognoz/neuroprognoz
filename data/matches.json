@@ -1379,10 +1379,10 @@
 "tour": "Stake Ranked Episode 5",
 "tslug": "stake-ranked-episode-5",
 "p1": 0.401,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "wnt-vs-privateer-2026-10-28": {
@@ -1589,10 +1589,10 @@
 "tour": "CCT Europe 2026 Contenders 10",
 "tslug": "cct-europe-2026-contenders-10",
 "p1": 0.245,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": true
 },
 "aurora-young-blud-vs-dimonix-2026-10-28": {

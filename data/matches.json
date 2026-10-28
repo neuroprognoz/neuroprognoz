@@ -1373,7 +1373,7 @@
 },
 "inner-circle-vs-mibr-2026-10-28": {
 "slug": "inner-circle-vs-mibr-2026-10-28",
-"ts": 1793212200,
+"ts": 1793214000,
 "t1": "Inner Circle",
 "t2": "MIBR",
 "tour": "Stake Ranked Episode 5",
@@ -1407,7 +1407,7 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.404,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,

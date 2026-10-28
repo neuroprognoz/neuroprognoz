@@ -1440,5 +1440,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"liquid-vs-furia-2026-10-28": {
+"slug": "liquid-vs-furia-2026-10-28",
+"ts": 1793196000,
+"t1": "Liquid",
+"t2": "FURIA",
+"tour": "PGL Masters Bucharest 2026",
+"tslug": "pgl-masters-bucharest-2026",
+"p1": 0.274,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

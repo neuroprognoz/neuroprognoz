@@ -1463,10 +1463,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.517,
-"st": "current",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "k27-vs-b8-2026-10-28": {
@@ -1616,7 +1616,7 @@
 "t2": "Monte",
 "tour": "CCT Europe 2026 Contenders 10",
 "tslug": "cct-europe-2026-contenders-10",
-"p1": 0.246,
+"p1": 0.244,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

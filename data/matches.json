@@ -1454,5 +1454,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"fortress-vs-bojong-2026-10-28": {
+"slug": "fortress-vs-bojong-2026-10-28",
+"ts": 1793215800,
+"t1": "Fortress",
+"t2": "BOJONG",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.517,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

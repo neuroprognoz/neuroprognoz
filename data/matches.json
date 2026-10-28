@@ -1365,10 +1365,10 @@
 "tour": "Stake Ranked Episode 5",
 "tslug": "stake-ranked-episode-5",
 "p1": 0.458,
-"st": "current",
+"st": "finished",
 "s1": 1,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "inner-circle-vs-mibr-2026-10-28": {

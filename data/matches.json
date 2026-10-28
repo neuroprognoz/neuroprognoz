@@ -1384,5 +1384,61 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"wnt-vs-privateer-2026-10-28": {
+"slug": "wnt-vs-privateer-2026-10-28",
+"ts": 1793208600,
+"t1": "wnT",
+"t2": "Privateer",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.373,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"gamerslab-vs-bojong-2026-10-28": {
+"slug": "gamerslab-vs-bojong-2026-10-28",
+"ts": 1793210400,
+"t1": "GamersLab",
+"t2": "BOJONG",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.404,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"wnt-vs-notime-2026-10-28": {
+"slug": "wnt-vs-notime-2026-10-28",
+"ts": 1793212200,
+"t1": "wnT",
+"t2": "NoTime",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.397,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"aimers-vs-ryvex-2026-10-28": {
+"slug": "aimers-vs-ryvex-2026-10-28",
+"ts": 1793215800,
+"t1": "aimers",
+"t2": "Ryvex",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.347,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

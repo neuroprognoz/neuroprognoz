@@ -1352,7 +1352,7 @@
 "tslug": "tesla-cup-2026",
 "p1": 0.734,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 1,
 "ok": null,
 "noindex": false
@@ -1393,10 +1393,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.439,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": true,
 "noindex": true
 },
 "gamerslab-vs-bojong-2026-10-28": {
@@ -1421,7 +1421,7 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.442,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,

@@ -1289,7 +1289,7 @@
 },
 "fnatic-vs-big-2026-10-28": {
 "slug": "fnatic-vs-big-2026-10-28",
-"ts": 1793203200,
+"ts": 1793206800,
 "t1": "fnatic",
 "t2": "BIG",
 "tour": "Stake Ranked Episode 5",
@@ -1366,7 +1366,7 @@
 "tslug": "stake-ranked-episode-5",
 "p1": 0.458,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 1,
 "ok": null,
 "noindex": false

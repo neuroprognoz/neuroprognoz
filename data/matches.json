@@ -1155,10 +1155,10 @@
 "tour": "DFRAG Invitational 2026",
 "tslug": "dfrag-invitational-2026",
 "p1": 0.421,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "brute-vs-fokus-2026-10-27": {

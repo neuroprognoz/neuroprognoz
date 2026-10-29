@@ -2154,5 +2154,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"mibr-vs-eternal-fire-2026-10-30": {
+"slug": "mibr-vs-eternal-fire-2026-10-30",
+"ts": 1793365200,
+"t1": "MIBR",
+"t2": "Eternal Fire",
+"tour": "Stake Ranked Episode 5",
+"tslug": "stake-ranked-episode-5",
+"p1": 0.588,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

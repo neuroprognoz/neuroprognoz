@@ -1846,5 +1846,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"bc-game-vs-og-2026-10-30": {
+"slug": "bc-game-vs-og-2026-10-30",
+"ts": 1793376900,
+"t1": "BC.Game",
+"t2": "OG",
+"tour": "Circuito Retake Season 13",
+"tslug": "circuito-retake-season-13",
+"p1": 0.577,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

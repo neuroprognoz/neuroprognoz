@@ -1967,10 +1967,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.631,
-"st": "current",
+"st": "finished",
 "s1": 0,
 "s2": 1,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "nemiga-vs-vitality-2026-10-30": {

@@ -1790,5 +1790,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"winx-vs-ttg-esports-2026-10-29": {
+"slug": "winx-vs-ttg-esports-2026-10-29",
+"ts": 1793291400,
+"t1": "Winx",
+"t2": "TTG Esports",
+"tour": "CCT Europe 2026 Contenders 10",
+"tslug": "cct-europe-2026-contenders-10",
+"p1": 0.392,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"aurora-young-blud-vs-sparx-2026-10-29": {
+"slug": "aurora-young-blud-vs-sparx-2026-10-29",
+"ts": 1793291400,
+"t1": "Aurora Young Blud",
+"t2": "SPARX",
+"tour": "CCT Europe 2026 Contenders 10",
+"tslug": "cct-europe-2026-contenders-10",
+"p1": 0.728,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

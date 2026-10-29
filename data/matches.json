@@ -1897,10 +1897,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.492,
-"st": "current",
+"st": "finished",
 "s1": 1,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "the-chosen-few-vs-oldboys-pl-2026-10-29": {

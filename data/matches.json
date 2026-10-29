@@ -1818,5 +1818,33 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"shinden-vs-isurus-2026-10-30": {
+"slug": "shinden-vs-isurus-2026-10-30",
+"ts": 1793365200,
+"t1": "ShindeN",
+"t2": "Isurus",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.741,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"fluxo-vs-signatus-2026-10-30": {
+"slug": "fluxo-vs-signatus-2026-10-30",
+"ts": 1793365200,
+"t1": "Fluxo",
+"t2": "Signatus",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.891,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

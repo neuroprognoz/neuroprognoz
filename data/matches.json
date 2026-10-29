@@ -1644,7 +1644,7 @@
 "t2": "Eternal Fire",
 "tour": "Stake Ranked Episode 5",
 "tslug": "stake-ranked-episode-5",
-"p1": 0.59,
+"p1": 0.591,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -1659,10 +1659,10 @@
 "tour": "PGL Masters Bucharest 2026",
 "tslug": "pgl-masters-bucharest-2026",
 "p1": 0.592,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "vitality-vs-natus-vincere-2026-10-29": {

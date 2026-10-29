@@ -1687,10 +1687,10 @@
 "tour": "PGL Masters Bucharest 2026",
 "tslug": "pgl-masters-bucharest-2026",
 "p1": 0.375,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "betboom-vs-furia-2026-10-29": {

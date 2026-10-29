@@ -1776,5 +1776,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"alter-ego-vs-abyssal-2026-10-30": {
+"slug": "alter-ego-vs-abyssal-2026-10-30",
+"ts": 1793329200,
+"t1": "Alter Ego",
+"t2": "Abyssal",
+"tour": "DFRAG Invitational 2026",
+"tslug": "dfrag-invitational-2026",
+"p1": 0.694,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

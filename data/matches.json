@@ -1869,7 +1869,7 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.412,
-"st": "upcoming",
+"st": "current",
 "s1": 0,
 "s2": 0,
 "ok": null,
@@ -2084,5 +2084,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"tyloo-vs-iberian-soul-2026-10-29": {
+"slug": "tyloo-vs-iberian-soul-2026-10-29",
+"ts": 1793292300,
+"t1": "TYLOO",
+"t2": "Iberian Soul",
+"tour": "Circuito Retake Season 13",
+"tslug": "circuito-retake-season-13",
+"p1": 0.505,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

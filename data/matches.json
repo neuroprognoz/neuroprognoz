@@ -1505,10 +1505,10 @@
 "tour": "Gamers Club Masters VII",
 "tslug": "gamers-club-masters-vii",
 "p1": 0.93,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
 "noindex": true
 },
 "turma-do-pagode-vs-alka-2026-10-30": {

@@ -1534,7 +1534,7 @@
 "tslug": "firesports-last-chance-2026",
 "p1": 0.337,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 0,
 "ok": null,
 "noindex": true
@@ -1730,7 +1730,7 @@
 "tslug": "stake-ranked-episode-5",
 "p1": 0.41,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 0,
 "ok": null,
 "noindex": false

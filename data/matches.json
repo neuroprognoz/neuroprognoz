@@ -1874,5 +1874,61 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"b8-academy-vs-bangaranga-2026-10-29": {
+"slug": "b8-academy-vs-bangaranga-2026-10-29",
+"ts": 1793296800,
+"t1": "B8 Academy",
+"t2": "BANGARANGA",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.589,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"fraternity-vs-inner-circle-prospect-2026-10-29": {
+"slug": "fraternity-vs-inner-circle-prospect-2026-10-29",
+"ts": 1793300400,
+"t1": "Fraternity",
+"t2": "Inner Circle Prospect",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.492,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"the-chosen-few-vs-oldboys-pl-2026-10-29": {
+"slug": "the-chosen-few-vs-oldboys-pl-2026-10-29",
+"ts": 1793302200,
+"t1": "The Chosen Few",
+"t2": "OLDBOYS PL",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.312,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"esuba-vs-oldboys-fr-2026-10-29": {
+"slug": "esuba-vs-oldboys-fr-2026-10-29",
+"ts": 1793302200,
+"t1": "eSuba",
+"t2": "OldBoys FR",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.404,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

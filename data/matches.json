@@ -1757,10 +1757,10 @@
 "tour": "Tesla Cup 2026",
 "tslug": "tesla-cup-2026",
 "p1": 0.532,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "faze-vs-gamerlegion-2026-10-29": {

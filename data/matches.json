@@ -1771,10 +1771,10 @@
 "tour": "Tesla Cup 2026",
 "tslug": "tesla-cup-2026",
 "p1": 0.551,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "alter-ego-vs-abyssal-2026-10-30": {

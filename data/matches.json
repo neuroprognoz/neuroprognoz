@@ -1860,5 +1860,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"rounds-vs-spirit-academy-green-2026-10-29": {
+"slug": "rounds-vs-spirit-academy-green-2026-10-29",
+"ts": 1793289600,
+"t1": "ROUNDS",
+"t2": "Spirit Academy Green",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.412,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

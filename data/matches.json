@@ -2093,10 +2093,10 @@
 "tour": "Circuito Retake Season 13",
 "tslug": "circuito-retake-season-13",
 "p1": 0.505,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "100-thieves-vs-bounty-hunters-2026-10-29": {

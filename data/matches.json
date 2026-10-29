@@ -1986,5 +1986,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"pcific-vs-omega-2026-10-30": {
+"slug": "pcific-vs-omega-2026-10-30",
+"ts": 1793372400,
+"t1": "PCIFIC",
+"t2": "Omega",
+"tour": "CyberClash Season 2",
+"tslug": "cyberclash-season-2",
+"p1": 0.505,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

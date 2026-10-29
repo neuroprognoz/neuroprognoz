@@ -1575,10 +1575,10 @@
 "tour": "Gamers Club Masters VII",
 "tslug": "gamers-club-masters-vii",
 "p1": 0.852,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "sparx-vs-nemesis-academy-2026-10-28": {
@@ -1631,10 +1631,10 @@
 "tour": "CCT Europe 2026 Contenders 10",
 "tslug": "cct-europe-2026-contenders-10",
 "p1": 0.585,
-"st": "current",
+"st": "finished",
 "s1": 1,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": true
 },
 "big-vs-eternal-fire-2026-10-29": {

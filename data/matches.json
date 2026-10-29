@@ -1930,5 +1930,47 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"bestia-vs-bth-2026-10-30": {
+"slug": "bestia-vs-bth-2026-10-30",
+"ts": 1793388600,
+"t1": "BESTIA",
+"t2": "BTH",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.905,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"wildcard-vs-hacha-2026-10-30": {
+"slug": "wildcard-vs-hacha-2026-10-30",
+"ts": 1793388600,
+"t1": "Wildcard",
+"t2": "Hacha",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.903,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"esuba-vs-rounds-2026-10-29": {
+"slug": "esuba-vs-rounds-2026-10-29",
+"ts": 1793302200,
+"t1": "eSuba",
+"t2": "ROUNDS",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.631,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

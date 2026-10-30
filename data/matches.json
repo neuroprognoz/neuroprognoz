@@ -2317,10 +2317,10 @@
 "tour": "Gamers Club Liga Série A: October 2026",
 "tslug": "gamers-club-liga-s-rie-a-october-2026",
 "p1": 0.347,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "fnatic-vs-eternal-fire-2026-10-30": {

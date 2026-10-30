@@ -1785,10 +1785,10 @@
 "tour": "DFRAG Invitational 2026",
 "tslug": "dfrag-invitational-2026",
 "p1": 0.693,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "winx-vs-ttg-esports-2026-10-29": {

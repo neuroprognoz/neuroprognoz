@@ -1995,10 +1995,10 @@
 "tour": "CyberClash Season 2",
 "tslug": "cyberclash-season-2",
 "p1": 0.51,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "genone-vs-baks-2026-10-30": {
@@ -2079,10 +2079,10 @@
 "tour": "Circuito Retake Season 13",
 "tslug": "circuito-retake-season-13",
 "p1": 0.812,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": true
 },
 "tyloo-vs-iberian-soul-2026-10-29": {
@@ -2121,10 +2121,10 @@
 "tour": "PGL Masters Bucharest 2026",
 "tslug": "pgl-masters-bucharest-2026",
 "p1": 0.666,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "quintess-ncia-vs-nc-2026-10-30": {
@@ -2191,10 +2191,10 @@
 "tour": "ESEA Season 59: Advanced Division - Europe",
 "tslug": "esea-season-59-advanced-division-europe",
 "p1": 0.603,
-"st": "current",
+"st": "finished",
 "s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "b8-academy-vs-banger-gang-2026-10-30": {
@@ -2219,10 +2219,10 @@
 "tour": "Gamers Club Masters VII",
 "tslug": "gamers-club-masters-vii",
 "p1": 0.398,
-"st": "current",
-"s1": 1,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": false,
 "noindex": false
 },
 "dendele-vs-turma-do-pagode-2026-10-31": {

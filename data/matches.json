@@ -2260,7 +2260,7 @@
 "t2": "Falcons Force",
 "tour": "CCT Europe 2026 Series 13 Play-In",
 "tslug": "cct-europe-2026-series-13-play-in",
-"p1": 0.713,
+"p1": 0.694,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -2308,5 +2308,19 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"hunters-rising-vs-gr-mio-2026-10-30": {
+"slug": "hunters-rising-vs-gr-mio-2026-10-30",
+"ts": 1793379600,
+"t1": "Hunters Rising",
+"t2": "Grêmio",
+"tour": "Gamers Club Liga Série A: October 2026",
+"tslug": "gamers-club-liga-s-rie-a-october-2026",
+"p1": 0.347,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

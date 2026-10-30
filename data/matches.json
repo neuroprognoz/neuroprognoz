@@ -1938,7 +1938,7 @@
 "t2": "BTH",
 "tour": "FiReSPORTS Last Chance 2026",
 "tslug": "firesports-last-chance-2026",
-"p1": 0.9,
+"p1": 0.899,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -2220,7 +2220,7 @@
 "tslug": "gamers-club-masters-vii",
 "p1": 0.398,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 0,
 "ok": null,
 "noindex": false

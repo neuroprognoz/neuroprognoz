@@ -2406,5 +2406,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"hacha-vs-bth-2026-10-31": {
+"slug": "hacha-vs-bth-2026-10-31",
+"ts": 1793398500,
+"t1": "Hacha",
+"t2": "BTH",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.627,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
+},
+"wildcard-vs-bestia-2026-10-31": {
+"slug": "wildcard-vs-bestia-2026-10-31",
+"ts": 1793398500,
+"t1": "Wildcard",
+"t2": "BESTIA",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.533,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

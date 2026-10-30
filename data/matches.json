@@ -2163,10 +2163,10 @@
 "tour": "Stake Ranked Episode 5",
 "tslug": "stake-ranked-episode-5",
 "p1": 0.561,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "bounty-hunters-vs-barca-2026-10-31": {

@@ -2238,5 +2238,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"galorys-vs-procyon-2026-10-31": {
+"slug": "galorys-vs-procyon-2026-10-31",
+"ts": 1793451600,
+"t1": "Galorys",
+"t2": "Procyon",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.672,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

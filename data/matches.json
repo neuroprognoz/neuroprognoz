@@ -1715,10 +1715,10 @@
 "tour": "Circuito Retake Season 13",
 "tslug": "circuito-retake-season-13",
 "p1": 0.528,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 1,
+"ok": false,
 "noindex": false
 },
 "inner-circle-vs-astralis-2026-10-29": {

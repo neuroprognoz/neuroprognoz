@@ -2051,10 +2051,10 @@
 "tour": "DFRAG Invitational 2026",
 "tslug": "dfrag-invitational-2026",
 "p1": 0.295,
-"st": "current",
+"st": "finished",
 "s1": 0,
 "s2": 2,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "hotu-vs-gamerlegion-2026-10-29": {
@@ -2120,7 +2120,7 @@
 "t2": "FURIA",
 "tour": "PGL Masters Bucharest 2026",
 "tslug": "pgl-masters-bucharest-2026",
-"p1": 0.667,
+"p1": 0.666,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

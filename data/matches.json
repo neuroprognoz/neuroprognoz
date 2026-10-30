@@ -2134,7 +2134,7 @@
 "t2": "NC",
 "tour": "Gamers Club Masters VII",
 "tslug": "gamers-club-masters-vii",
-"p1": 0.733,
+"p1": 0.631,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -2148,7 +2148,7 @@
 "t2": "paiN",
 "tour": "Gamers Club Masters VII",
 "tslug": "gamers-club-masters-vii",
-"p1": 0.631,
+"p1": 0.638,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,
@@ -2168,5 +2168,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"bounty-hunters-vs-barca-2026-10-31": {
+"slug": "bounty-hunters-vs-barca-2026-10-31",
+"ts": 1793451600,
+"t1": "Bounty Hunters",
+"t2": "BARCA",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.626,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

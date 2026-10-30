@@ -2392,5 +2392,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"shinden-vs-isurus-2026-10-31": {
+"slug": "shinden-vs-isurus-2026-10-31",
+"ts": 1793463300,
+"t1": "ShindeN",
+"t2": "Isurus",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.754,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

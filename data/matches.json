@@ -2266,5 +2266,47 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"ducks-vs-aurora-young-blud-2026-10-30": {
+"slug": "ducks-vs-aurora-young-blud-2026-10-30",
+"ts": 1793377800,
+"t1": "Ducks",
+"t2": "Aurora Young Blud",
+"tour": "CCT Europe 2026 Contenders 10",
+"tslug": "cct-europe-2026-contenders-10",
+"p1": 0.368,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"spirit-academy-black-vs-ttg-esports-2026-10-30": {
+"slug": "spirit-academy-black-vs-ttg-esports-2026-10-30",
+"ts": 1793387700,
+"t1": "Spirit Academy Black",
+"t2": "TTG Esports",
+"tour": "CCT Europe 2026 Contenders 10",
+"tslug": "cct-europe-2026-contenders-10",
+"p1": 0.536,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"monte-vs-prodigy-2026-10-31": {
+"slug": "monte-vs-prodigy-2026-10-31",
+"ts": 1793464200,
+"t1": "Monte",
+"t2": "prodigy",
+"tour": "CCT Europe 2026 Contenders 10",
+"tslug": "cct-europe-2026-contenders-10",
+"p1": 0.851,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": true
 }
 }

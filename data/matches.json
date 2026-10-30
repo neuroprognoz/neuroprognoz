@@ -2210,5 +2210,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"low-cortisol-br-vs-alka-2026-10-30": {
+"slug": "low-cortisol-br-vs-alka-2026-10-30",
+"ts": 1793377800,
+"t1": "Low Cortisol BR",
+"t2": "ALKA",
+"tour": "Gamers Club Masters VII",
+"tslug": "gamers-club-masters-vii",
+"p1": 0.398,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"dendele-vs-turma-do-pagode-2026-10-31": {
+"slug": "dendele-vs-turma-do-pagode-2026-10-31",
+"ts": 1793403000,
+"t1": "DENDELE",
+"t2": "Turma do Pagode",
+"tour": "Gamers Club Masters VII",
+"tslug": "gamers-club-masters-vii",
+"p1": 0.667,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

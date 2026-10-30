@@ -2023,10 +2023,10 @@
 "tour": "CCT Europe 2026 Series 12",
 "tslug": "cct-europe-2026-series-12",
 "p1": 0.824,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "phantom-vs-lavked-2026-10-30": {
@@ -2120,7 +2120,7 @@
 "t2": "FURIA",
 "tour": "PGL Masters Bucharest 2026",
 "tslug": "pgl-masters-bucharest-2026",
-"p1": 0.667,
+"p1": 0.666,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

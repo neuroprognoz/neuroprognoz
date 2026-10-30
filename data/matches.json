@@ -2009,10 +2009,10 @@
 "tour": "CCT Europe 2026 Series 12",
 "tslug": "cct-europe-2026-series-12",
 "p1": 0.57,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 1,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "fokus-vs-s-kerorg-2026-10-30": {

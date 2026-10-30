@@ -2182,5 +2182,33 @@
 "s2": 0,
 "ok": null,
 "noindex": true
+},
+"the-chosen-few-vs-spirit-hu-2026-10-30": {
+"slug": "the-chosen-few-vs-spirit-hu-2026-10-30",
+"ts": 1793379600,
+"t1": "The Chosen Few",
+"t2": "Spirit HU",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.643,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"b8-academy-vs-banger-gang-2026-10-30": {
+"slug": "b8-academy-vs-banger-gang-2026-10-30",
+"ts": 1793381400,
+"t1": "B8 Academy",
+"t2": "Banger Gang",
+"tour": "ESEA Season 59: Advanced Division - Europe",
+"tslug": "esea-season-59-advanced-division-europe",
+"p1": 0.505,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

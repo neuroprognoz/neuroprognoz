@@ -2291,7 +2291,7 @@
 "p1": 0.536,
 "st": "current",
 "s1": 0,
-"s2": 0,
+"s2": 1,
 "ok": null,
 "noindex": false
 },
@@ -2331,10 +2331,10 @@
 "tour": "Stake Ranked Episode 5",
 "tslug": "stake-ranked-episode-5",
 "p1": 0.586,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 3,
+"ok": false,
 "noindex": false
 },
 "signatus-vs-isurus-2026-10-30": {

@@ -2289,10 +2289,10 @@
 "tour": "CCT Europe 2026 Contenders 10",
 "tslug": "cct-europe-2026-contenders-10",
 "p1": 0.536,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": false
 },
 "monte-vs-prodigy-2026-10-31": {
@@ -2386,7 +2386,7 @@
 "t2": "FURIA",
 "tour": "PGL Masters Bucharest 2026",
 "tslug": "pgl-masters-bucharest-2026",
-"p1": 0.411,
+"p1": 0.41,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

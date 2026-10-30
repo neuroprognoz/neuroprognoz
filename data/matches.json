@@ -2364,5 +2364,33 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"vitality-vs-mouz-2026-10-31": {
+"slug": "vitality-vs-mouz-2026-10-31",
+"ts": 1793433600,
+"t1": "Vitality",
+"t2": "MOUZ",
+"tour": "PGL Masters Bucharest 2026",
+"tslug": "pgl-masters-bucharest-2026",
+"p1": 0.631,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"nemiga-vs-furia-2026-10-31": {
+"slug": "nemiga-vs-furia-2026-10-31",
+"ts": 1793444400,
+"t1": "Nemiga",
+"t2": "FURIA",
+"tour": "PGL Masters Bucharest 2026",
+"tslug": "pgl-masters-bucharest-2026",
+"p1": 0.384,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

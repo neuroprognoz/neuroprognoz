@@ -1855,10 +1855,10 @@
 "tour": "Circuito Retake Season 13",
 "tslug": "circuito-retake-season-13",
 "p1": 0.584,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 1,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "rounds-vs-spirit-academy-green-2026-10-29": {
@@ -2345,10 +2345,10 @@
 "tour": "FiReSPORTS Last Chance 2026",
 "tslug": "firesports-last-chance-2026",
 "p1": 0.221,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": true
 },
 "fluxo-vs-shinden-2026-10-30": {

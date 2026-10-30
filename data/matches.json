@@ -2275,10 +2275,10 @@
 "tour": "CCT Europe 2026 Contenders 10",
 "tslug": "cct-europe-2026-contenders-10",
 "p1": 0.368,
-"st": "upcoming",
-"s1": 0,
-"s2": 0,
-"ok": null,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": false,
 "noindex": false
 },
 "spirit-academy-black-vs-ttg-esports-2026-10-30": {

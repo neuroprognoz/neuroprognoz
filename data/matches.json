@@ -2261,10 +2261,10 @@
 "tour": "CCT Europe 2026 Series 13 Play-In",
 "tslug": "cct-europe-2026-series-13-play-in",
 "p1": 0.694,
-"st": "upcoming",
-"s1": 0,
+"st": "finished",
+"s1": 2,
 "s2": 0,
-"ok": null,
+"ok": true,
 "noindex": false
 },
 "ducks-vs-aurora-young-blud-2026-10-30": {
@@ -2386,7 +2386,7 @@
 "t2": "FURIA",
 "tour": "PGL Masters Bucharest 2026",
 "tslug": "pgl-masters-bucharest-2026",
-"p1": 0.41,
+"p1": 0.411,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

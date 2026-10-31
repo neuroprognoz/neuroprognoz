@@ -2471,10 +2471,10 @@
 "tour": "DFRAG Invitational 2026",
 "tslug": "dfrag-invitational-2026",
 "p1": 0.259,
-"st": "upcoming",
+"st": "finished",
 "s1": 0,
-"s2": 0,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "nc-vs-pain-2026-10-31": {

@@ -2457,10 +2457,10 @@
 "tour": "CCT Europe 2026 Series 12",
 "tslug": "cct-europe-2026-series-12",
 "p1": 0.454,
-"st": "current",
+"st": "finished",
 "s1": 0,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": true,
 "noindex": false
 },
 "abyssal-vs-nexvoid-2026-10-31": {

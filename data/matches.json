@@ -2177,10 +2177,10 @@
 "tour": "FiReSPORTS Last Chance 2026",
 "tslug": "firesports-last-chance-2026",
 "p1": 0.638,
-"st": "current",
+"st": "finished",
 "s1": 1,
-"s2": 1,
-"ok": null,
+"s2": 2,
+"ok": false,
 "noindex": true
 },
 "the-chosen-few-vs-spirit-hu-2026-10-30": {

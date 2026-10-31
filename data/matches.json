@@ -2542,7 +2542,7 @@
 "tslug": "circuito-retake-season-13",
 "p1": 0.725,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 0,
 "ok": null,
 "noindex": false
@@ -2596,7 +2596,7 @@
 "t2": "Alter Ego",
 "tour": "DFRAG Invitational 2026",
 "tslug": "dfrag-invitational-2026",
-"p1": 0.809,
+"p1": 0.801,
 "st": "upcoming",
 "s1": 0,
 "s2": 0,

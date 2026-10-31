@@ -2602,5 +2602,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"heroic-vs-b8-2026-11-02": {
+"slug": "heroic-vs-b8-2026-11-02",
+"ts": 1793584800,
+"t1": "HEROIC",
+"t2": "B8",
+"tour": "Intel Extreme Masters Beijing 2026",
+"tslug": "intel-extreme-masters-beijing-2026",
+"p1": 0.63,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

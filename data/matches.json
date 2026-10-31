@@ -2248,7 +2248,7 @@
 "tslug": "firesports-last-chance-2026",
 "p1": 0.675,
 "st": "current",
-"s1": 0,
+"s1": 1,
 "s2": 1,
 "ok": null,
 "noindex": false
@@ -2616,5 +2616,47 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"pain-vs-naocopulas-2026-10-29": {
+"slug": "pain-vs-naocopulas-2026-10-29",
+"ts": 1793289600,
+"t1": "paiN",
+"t2": "NAOCOPULAS",
+"tour": "Gamers Club Masters VII",
+"tslug": "gamers-club-masters-vii",
+"p1": 0.93,
+"st": "finished",
+"s1": 2,
+"s2": 1,
+"ok": true,
+"noindex": true
+},
+"quintess-ncia-vs-naocopulas-2026-10-30": {
+"slug": "quintess-ncia-vs-naocopulas-2026-10-30",
+"ts": 1793365200,
+"t1": "QUINTESSÊNCIA",
+"t2": "NAOCOPULAS",
+"tour": "Gamers Club Masters VII",
+"tslug": "gamers-club-masters-vii",
+"p1": 0.645,
+"st": "finished",
+"s1": 0,
+"s2": 2,
+"ok": false,
+"noindex": true
+},
+"naocopulas-vs-pain-2026-10-31": {
+"slug": "naocopulas-vs-pain-2026-10-31",
+"ts": 1793451600,
+"t1": "NAOCOPULAS",
+"t2": "paiN",
+"tour": "Gamers Club Masters VII",
+"tslug": "gamers-club-masters-vii",
+"p1": 0.162,
+"st": "finished",
+"s1": 2,
+"s2": 0,
+"ok": false,
+"noindex": true
 }
 }

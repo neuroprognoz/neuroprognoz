@@ -2588,5 +2588,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"flyquest-vs-alter-ego-2026-11-01": {
+"slug": "flyquest-vs-alter-ego-2026-11-01",
+"ts": 1793502000,
+"t1": "FlyQuest",
+"t2": "Alter Ego",
+"tour": "DFRAG Invitational 2026",
+"tslug": "dfrag-invitational-2026",
+"p1": 0.809,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

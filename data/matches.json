@@ -2504,5 +2504,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"hacha-vs-wildcard-2026-10-31": {
+"slug": "hacha-vs-wildcard-2026-10-31",
+"ts": 1793463300,
+"t1": "Hacha",
+"t2": "Wildcard",
+"tour": "FiReSPORTS Last Chance 2026",
+"tslug": "firesports-last-chance-2026",
+"p1": 0.101,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

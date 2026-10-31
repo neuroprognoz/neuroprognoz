@@ -2518,5 +2518,61 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"baks-vs-fokus-2026-10-31": {
+"slug": "baks-vs-fokus-2026-10-31",
+"ts": 1793458800,
+"t1": "BAKS",
+"t2": "FOKUS",
+"tour": "CCT Europe 2026 Series 12",
+"tslug": "cct-europe-2026-series-12",
+"p1": 0.216,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"jijiehao-vs-basement-boys-2026-10-31": {
+"slug": "jijiehao-vs-basement-boys-2026-10-31",
+"ts": 1793457000,
+"t1": "JiJieHao",
+"t2": "BASEMENT BOYS",
+"tour": "Circuito Retake Season 13",
+"tslug": "circuito-retake-season-13",
+"p1": 0.725,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"og-vs-iberian-soul-2026-10-31": {
+"slug": "og-vs-iberian-soul-2026-10-31",
+"ts": 1793467800,
+"t1": "OG",
+"t2": "Iberian Soul",
+"tour": "Circuito Retake Season 13",
+"tslug": "circuito-retake-season-13",
+"p1": 0.38,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
+},
+"s-kerorg-vs-fortress-2026-10-31": {
+"slug": "s-kerorg-vs-fortress-2026-10-31",
+"ts": 1793458800,
+"t1": "Sökerorg",
+"t2": "Fortress",
+"tour": "CCT Europe 2026 Series 13 Play-In",
+"tslug": "cct-europe-2026-series-13-play-in",
+"p1": 0.835,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }

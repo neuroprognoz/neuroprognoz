@@ -2574,5 +2574,19 @@
 "s2": 0,
 "ok": null,
 "noindex": false
+},
+"ducks-vs-ttg-esports-2026-10-31": {
+"slug": "ducks-vs-ttg-esports-2026-10-31",
+"ts": 1793474100,
+"t1": "Ducks",
+"t2": "TTG Esports",
+"tour": "CCT Europe 2026 Contenders 10",
+"tslug": "cct-europe-2026-contenders-10",
+"p1": 0.384,
+"st": "upcoming",
+"s1": 0,
+"s2": 0,
+"ok": null,
+"noindex": false
 }
 }
